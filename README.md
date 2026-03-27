@@ -1,5 +1,8 @@
 # 📂 FREE FIRE INFO API  
 
+```
+http://127.0.0.1:5000/player-info?uid=11111111
+```
 ## Supported Regions  
 ```json  
 ["IND", "BR", "SG", "RU", "ID", "TW", "US", "VN", "TH", "ME", "PK", "CIS", "BD", "NA", "SAC", "EU"]  
